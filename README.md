@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Uni-Projects
 - 🌱 I’m currently learning computer science
-- 🤔 I’m looking for help with GUIs
 - 📫 How to reach me: Discord: FabianusMaximus#7731
 
 ---
